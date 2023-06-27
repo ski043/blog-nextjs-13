@@ -12,7 +12,16 @@
 - [Sanity.io](https://www.sanity.io/)
 
 
-  
+  ### Commands you will need
+```sh
+npm install -D @tailwindcss/typography
+
+```
+
+```sh
+npm install @portabletext/react @sanity/image-url next-sanity next-themes
+
+```
 
 
 ## Deployment
